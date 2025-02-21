@@ -1,0 +1,6 @@
+aiohttp
+aiohttp_socks
+fake_useragent
+pytz
+rich
+tqdm
